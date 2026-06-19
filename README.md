@@ -190,3 +190,12 @@ If you'd like, I can:
 - Add this as `read.md` (done) and also create `README.md` copy.
 - Insert usage screenshots or animated GIFs into `public/` and reference them.
 - Generate a CONTRIBUTING.md and CODE_OF_CONDUCT.md.
+  ## Output
+  <img width="1667" height="902" alt="image" src="https://github.com/user-attachments/assets/9f716b55-029b-45c6-a68e-9c28ab13d557" />
+  <img width="1577" height="827" alt="image" src="https://github.com/user-attachments/assets/7c8b48b5-2b50-4ce5-bba9-ddb38e83bc0a" />
+  <img width="1583" height="721" alt="image" src="https://github.com/user-attachments/assets/2cdda44b-df61-410a-9c16-42680daa92fe" />
+  <img width="1597" height="797" alt="image" src="https://github.com/user-attachments/assets/0bac147d-8603-4e34-b017-7649c9f381fb" />
+
+
+
+
