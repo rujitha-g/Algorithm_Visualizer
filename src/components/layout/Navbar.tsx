@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Moon, Sun, BrainCircuit, Zap } from 'lucide-react';
+import { Moon, Sun, BrainCircuit } from 'lucide-react';
 import { useApp } from '../../context/AppContext';
 
 export default function Navbar() {
